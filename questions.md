@@ -10,3 +10,6 @@
 ## Miscellaneous
 - [Palindrome Number](https://leetcode.com/problems/palindrome-number/)
   - [Solution converting integer into a string](https://leetcode.com/submissions/detail/615290137/)
+# Coderbyte Questions
+## Arrays
+- [Longest Word](https://coderbyte.com/results/CDDR1:Longest%20Word:JavaScript)

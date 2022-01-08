@@ -8,5 +8,5 @@
   - [O(n) solution](https://leetcode.com/submissions/detail/564624349/)
 - [Rotate Array](https://leetcode.com/problems/rotate-array/description/)
 ## Miscellaneous
-- [Palindrome Number] (https://leetcode.com/problems/palindrome-number/)
+- [Palindrome Number](https://leetcode.com/problems/palindrome-number/)
   - [Solution converting integer into a string](https://leetcode.com/submissions/detail/615290137/)

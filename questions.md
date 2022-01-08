@@ -7,3 +7,4 @@
 - [Contains Duplicate](https://leetcode.com/problems/contains-duplicate/description/)
   - [O(n) solution](https://leetcode.com/submissions/detail/564624349/)
 - [Rotate Array](https://leetcode.com/problems/rotate-array/description/)
+## Miscellaneous

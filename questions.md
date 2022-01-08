@@ -1,4 +1,8 @@
-## LeetCode Questions
+# LeetCode Questions
+## Arrays
 - [Two Sum](https://leetcode.com/problems/two-sum/description/)
   - [Solution using nested loops O(n^2)](https://leetcode.com/problems/two-sum/discuss/1673556/Two-Sum)
 - [Maximum Subarray](https://leetcode.com/problems/maximum-subarray/description/)
+- [Move Ceros](https://leetcode.com/problems/move-zeroes/description/)
+- [Contains Duplicate](https://leetcode.com/problems/contains-duplicate/description/)
+- [Rotate Array](https://leetcode.com/problems/rotate-array/description/)

@@ -1,2 +1,2 @@
 # leetcode-questions
-Repository containing all the LeetCode questions that I've solved. 
+Repository containing questions from LeetCode, HackerRank, Coderbyte, and other platforms to practice for coding interviews. 

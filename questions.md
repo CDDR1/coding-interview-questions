@@ -7,6 +7,9 @@
 - [Contains Duplicate](https://leetcode.com/problems/contains-duplicate/description/)
   - [O(n) solution](https://leetcode.com/submissions/detail/564624349/)
 - [Rotate Array](https://leetcode.com/problems/rotate-array/description/)
+## Hash Tables
+- [Valid Anagram](https://leetcode.com/problems/valid-anagram/)
+  - [Solution O(n)](https://leetcode.com/problems/valid-anagram/discuss/1684003/Valid-Anagram-(JavaScript))
 ## Miscellaneous
 - [Palindrome Number](https://leetcode.com/problems/palindrome-number/)
   - [Solution converting integer into a string](https://leetcode.com/submissions/detail/615290137/)

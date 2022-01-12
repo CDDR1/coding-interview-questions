@@ -14,8 +14,7 @@
 - [Palindrome Number](https://leetcode.com/problems/palindrome-number/)
   - [Solution converting integer into a string](https://leetcode.com/submissions/detail/615290137/)
 - [Implement Queue using Stacks](https://leetcode.com/problems/implement-queue-using-stacks/)
-  - [Solution using one stack](https://leetcode.com/problems/implement-queue-using-stacks/discuss/1683113/Implement-Queue-using-Stacks-(JavaScript))
-<br>
+  - [Solution using one stack](https://leetcode.com/problems/implement-queue-using-stacks/discuss/1683113/Implement-Queue-using-Stacks-(JavaScript))\
 # Coderbyte Questions
 ## Arrays
 - [Longest Word](https://coderbyte.com/results/CDDR1:Longest%20Word:JavaScript)

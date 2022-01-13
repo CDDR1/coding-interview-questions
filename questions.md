@@ -13,6 +13,7 @@
 ## Stacks
 - [Min Stack](https://leetcode.com/problems/min-stack/)
   - [Solution O(n)](https://leetcode.com/problems/min-stack/discuss/1687911/Min-Stack-(JavaScript))
+  - [Solution O(1)](https://leetcode.com/problems/min-stack/discuss/1688108/Min-Stack-O(1)-Solution-(JavaScript))
 ## Miscellaneous
 - [Palindrome Number](https://leetcode.com/problems/palindrome-number/)
   - [Solution converting integer into a string](https://leetcode.com/submissions/detail/615290137/)

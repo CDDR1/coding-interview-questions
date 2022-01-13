@@ -10,6 +10,9 @@
 ## Hash Tables
 - [Valid Anagram](https://leetcode.com/problems/valid-anagram/)
   - [Solution O(n)](https://leetcode.com/problems/valid-anagram/discuss/1684003/Valid-Anagram-(JavaScript))
+## Stacks
+- [Min Stack](https://leetcode.com/problems/min-stack/)
+  - [Solution O(n)](https://leetcode.com/problems/min-stack/discuss/1687911/Min-Stack-(JavaScript))
 ## Miscellaneous
 - [Palindrome Number](https://leetcode.com/problems/palindrome-number/)
   - [Solution converting integer into a string](https://leetcode.com/submissions/detail/615290137/)

@@ -6,7 +6,8 @@
 - [Maximum Subarray](https://leetcode.com/problems/maximum-subarray/description/)
 - [Move Ceros](https://leetcode.com/problems/move-zeroes/description/)
 - [Contains Duplicate](https://leetcode.com/problems/contains-duplicate/description/)
-  - [O(n) solution](https://leetcode.com/submissions/detail/564624349/)
+  - [O(n^2) solution](https://leetcode.com/submissions/detail/564624349/)
+  - [O(n) solution](https://leetcode.com/problems/contains-duplicate/discuss/1700500/Contains-Duplicate-Solution-O(n))
 - [Rotate Array](https://leetcode.com/problems/rotate-array/description/)
 ## Hash Tables
 - [Valid Anagram](https://leetcode.com/problems/valid-anagram/)

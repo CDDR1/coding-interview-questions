@@ -14,7 +14,8 @@
 - [Valid Anagram](https://leetcode.com/problems/valid-anagram/)
   - [Solution O(n)](https://leetcode.com/problems/valid-anagram/discuss/1684003/Valid-Anagram-(JavaScript))
 - [Roman to Integer](https://leetcode.com/problems/roman-to-integer/)
-  - [O(n) solution but using a lot of if statements](https://leetcode.com/problems/roman-to-integer/discuss/1701056/Roman-to-Integer-(Naive-Approach))
+  - [O(n) solution using a lot of if statements](https://leetcode.com/problems/roman-to-integer/discuss/1701056/Roman-to-Integer-(Naive-Approach))
+  - [O(n) solution (more readable)](https://leetcode.com/problems/roman-to-integer/discuss/1702303/JavaScript-O(n)-Solution)
 ## Stacks
 - [Min Stack](https://leetcode.com/problems/min-stack/)
   - [Solution O(n)](https://leetcode.com/problems/min-stack/discuss/1687911/Min-Stack-(JavaScript))

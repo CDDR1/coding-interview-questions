@@ -24,4 +24,4 @@
   - [Solution using one stack](https://leetcode.com/problems/implement-queue-using-stacks/discuss/1683113/Implement-Queue-using-Stacks-(JavaScript))
 # Coderbyte Questions
 ## Arrays
-- [Longest Word](https://coderbyte.com/results/CDDR1:Longest%20Word:JavaScript)
+- [Longest Word **SOLVED**](https://coderbyte.com/results/CDDR1:Longest%20Word:JavaScript)

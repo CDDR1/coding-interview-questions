@@ -18,6 +18,8 @@
 - [Roman to Integer](https://leetcode.com/problems/roman-to-integer/)
   - [O(n) solution using a lot of if statements](https://leetcode.com/problems/roman-to-integer/discuss/1701056/Roman-to-Integer-(Naive-Approach))
   - [O(n) solution (more readable)](https://leetcode.com/problems/roman-to-integer/discuss/1702303/JavaScript-O(n)-Solution)
+- [Remove Duplicates from Sorted Array](https://leetcode.com/problems/remove-duplicates-from-sorted-array/)
+  - [O(n^2) solution](https://leetcode.com/problems/remove-duplicates-from-sorted-array/discuss/1702470/Remove-Duplicates-(JavaScript))
 ## Stacks
 - [Min Stack](https://leetcode.com/problems/min-stack/)
   - [Solution O(n)](https://leetcode.com/problems/min-stack/discuss/1687911/Min-Stack-(JavaScript))

@@ -5,6 +5,7 @@
   - [Solution using HashTable O(n)](https://leetcode.com/problems/two-sum/discuss/1689840/Two-Sum-(HashTable))
 - [Maximum Subarray](https://leetcode.com/problems/maximum-subarray/description/)
 - [Move Ceros](https://leetcode.com/problems/move-zeroes/description/)
+  - [O(n^2) solution](https://leetcode.com/problems/move-zeroes/discuss/1701022/Move-Zeroes-O(n2)-(Naive-Approach))
 - [Contains Duplicate](https://leetcode.com/problems/contains-duplicate/description/)
   - [O(n^2) solution](https://leetcode.com/submissions/detail/564624349/)
   - [O(n) solution](https://leetcode.com/problems/contains-duplicate/discuss/1700500/Contains-Duplicate-Solution-O(n))

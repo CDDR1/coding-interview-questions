@@ -10,6 +10,8 @@
   - [O(n^2) solution](https://leetcode.com/submissions/detail/564624349/)
   - [O(n) solution](https://leetcode.com/problems/contains-duplicate/discuss/1700500/Contains-Duplicate-Solution-O(n))
 - [Rotate Array](https://leetcode.com/problems/rotate-array/description/)
+- [Remove Element](https://leetcode.com/problems/remove-element/)
+  - [O(n^2) solution](https://leetcode.com/problems/remove-element/discuss/1702436/Remove-Element-(JavaScript))
 ## Hash Tables
 - [Valid Anagram](https://leetcode.com/problems/valid-anagram/)
   - [Solution O(n)](https://leetcode.com/problems/valid-anagram/discuss/1684003/Valid-Anagram-(JavaScript))

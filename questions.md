@@ -20,6 +20,8 @@
   - [O(n) solution (more readable)](https://leetcode.com/problems/roman-to-integer/discuss/1702303/JavaScript-O(n)-Solution)
 - [Remove Duplicates from Sorted Array](https://leetcode.com/problems/remove-duplicates-from-sorted-array/)
   - [O(n^2) solution](https://leetcode.com/problems/remove-duplicates-from-sorted-array/discuss/1702470/Remove-Duplicates-(JavaScript))
+- [Sort Array by Invreasing Frequency](https://leetcode.com/problems/sort-array-by-increasing-frequency/)
+  - [O(n^2) solution using Bubble Sort](https://leetcode.com/problems/sort-array-by-increasing-frequency/discuss/1707575/Solution-using-HashTable-and-the-Bubble-Sort-algorithm-(JavaScript))
 ## Stacks
 - [Min Stack](https://leetcode.com/problems/min-stack/)
   - [Solution O(n)](https://leetcode.com/problems/min-stack/discuss/1687911/Min-Stack-(JavaScript))

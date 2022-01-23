@@ -13,6 +13,8 @@
 - [Remove Element](https://leetcode.com/problems/remove-element/)
   - [O(n^2) solution](https://leetcode.com/problems/remove-element/discuss/1702436/Remove-Element-(JavaScript))
 ## Hash Tables
+- [First Unique Character in a String](https://leetcode.com/problems/first-unique-character-in-a-string/description/)
+  - [O(n) solution using HashTable](https://leetcode.com/problems/first-unique-character-in-a-string/discuss/1714092/Straightforward-solution-using-HashMap-(JavaScript))
 - [Valid Anagram](https://leetcode.com/problems/valid-anagram/)
   - [Solution O(n)](https://leetcode.com/problems/valid-anagram/discuss/1684003/Valid-Anagram-(JavaScript))
 - [Roman to Integer](https://leetcode.com/problems/roman-to-integer/)

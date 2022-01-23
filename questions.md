@@ -33,6 +33,7 @@
   - [Solution using one stack](https://leetcode.com/problems/implement-queue-using-stacks/discuss/1683113/Implement-Queue-using-Stacks-(JavaScript))
 - [Sorting the Sentence](https://leetcode.com/problems/sorting-the-sentence)
   - [O(n^2) solution using Bubble Sort](https://leetcode.com/problems/sorting-the-sentence/discuss/1713351/Solution-using-Bubble-Sort)
+  - [O(n^2 solution using Selection Sort](https://leetcode.com/problems/sorting-the-sentence/discuss/1713884/Solution-using-Selection-Sort)
 # Coderbyte Questions
 ## Arrays
 - [Longest Word **SOLVED**](https://coderbyte.com/results/CDDR1:Longest%20Word:JavaScript)

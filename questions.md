@@ -38,6 +38,8 @@
 - [Sorting the Sentence](https://leetcode.com/problems/sorting-the-sentence)
   - [O(n^2) solution using Bubble Sort](https://leetcode.com/problems/sorting-the-sentence/discuss/1713351/Solution-using-Bubble-Sort)
   - [O(n^2 solution using Selection Sort](https://leetcode.com/problems/sorting-the-sentence/discuss/1713884/Solution-using-Selection-Sort)
+- [Length of Last Word](https://leetcode.com/problems/length-of-last-word/)
+  - [O(n) solution](https://leetcode.com/problems/length-of-last-word/discuss/1714454/Solution-(JavaScript))
 # Coderbyte Questions
 ## Arrays
 - [Longest Word **SOLVED**](https://coderbyte.com/results/CDDR1:Longest%20Word:JavaScript)

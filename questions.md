@@ -12,6 +12,8 @@
 - [Rotate Array](https://leetcode.com/problems/rotate-array/description/)
 - [Remove Element](https://leetcode.com/problems/remove-element/)
   - [O(n^2) solution](https://leetcode.com/problems/remove-element/discuss/1702436/Remove-Element-(JavaScript))
+- [Valid Mountain Array](https://leetcode.com/problems/valid-mountain-array)
+  - [Solution using JavaScript's slice method](https://leetcode.com/problems/valid-mountain-array/discuss/1719558/Straightforward-JavaScript-solution-with-explanation)
 ## Hash Tables
 - [First Unique Character in a String](https://leetcode.com/problems/first-unique-character-in-a-string/description/)
   - [O(n) solution using HashTable](https://leetcode.com/problems/first-unique-character-in-a-string/discuss/1714092/Straightforward-solution-using-HashMap-(JavaScript))

@@ -32,6 +32,8 @@
   - [Solution O(1)](https://leetcode.com/problems/min-stack/discuss/1688108/Min-Stack-O(1)-Solution-(JavaScript))
 - [Valid Palindrome](https://leetcode.com/problems/valid-palindrome)
   - [Solution using Stack](https://leetcode.com/problems/valid-palindrome/discuss/1714368/Solution-using-Stack-(JavaScript))
+- [Valid Parentheses](https://leetcode.com/problems/valid-parentheses)
+  - [O(n) solution using Stack](https://leetcode.com/problems/valid-parentheses/discuss/1721816/Solution-using-Stack-(JavaScript))
 ## Miscellaneous
 - [Palindrome Number](https://leetcode.com/problems/palindrome-number/)
   - [Solution converting integer into a string](https://leetcode.com/submissions/detail/615290137/)

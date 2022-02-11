@@ -48,6 +48,8 @@
   - [O(n^2 solution using Selection Sort](https://leetcode.com/problems/sorting-the-sentence/discuss/1713884/Solution-using-Selection-Sort)
 - [Length of Last Word](https://leetcode.com/problems/length-of-last-word/)
   - [O(n) solution](https://leetcode.com/problems/length-of-last-word/discuss/1714454/Solution-(JavaScript))
+- [Pascal's Triangle](https://leetcode.com/problems/pascals-triangle)
+  - [O(n^2) solution](https://leetcode.com/problems/pascals-triangle/discuss/1763938/JavaScript-Solution)
 # Coderbyte Questions
 ## Arrays
 - [Longest Word **SOLVED**](https://coderbyte.com/results/CDDR1:Longest%20Word:JavaScript)

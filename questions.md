@@ -17,6 +17,8 @@
 ## Hash Tables
 - [First Unique Character in a String](https://leetcode.com/problems/first-unique-character-in-a-string/description/)
   - [O(n) solution using HashTable](https://leetcode.com/problems/first-unique-character-in-a-string/discuss/1714092/Straightforward-solution-using-HashMap-(JavaScript))
+- [Find the Difference](https://leetcode.com/problems/find-the-difference/)
+  - [O(n) solution](https://leetcode.com/problems/find-the-difference/discuss/1761962/JavaScript-solution)
 - [Single Number](https://leetcode.com/problems/single-number)
   - [O(n) solution](https://leetcode.com/problems/single-number/discuss/1727207/Easy-to-Understand-Solution-using-HashMap-(JavaScript))
 - [Valid Anagram](https://leetcode.com/problems/valid-anagram/)

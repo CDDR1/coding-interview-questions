@@ -39,6 +39,8 @@
 - [Valid Parentheses](https://leetcode.com/problems/valid-parentheses)
   - [O(n) solution using Stack](https://leetcode.com/problems/valid-parentheses/discuss/1721816/Solution-using-Stack-(JavaScript))
 ## Miscellaneous
+- [Fizz Buzz](https://leetcode.com/problems/fizz-buzz)
+  - [O(n) solution](https://leetcode.com/problems/fizz-buzz/discuss/1778499/Fizz-Buzz-(JavaScript))
 - [Palindrome Number](https://leetcode.com/problems/palindrome-number/)
   - [Solution converting integer into a string](https://leetcode.com/submissions/detail/615290137/)
 - [Implement Queue using Stacks](https://leetcode.com/problems/implement-queue-using-stacks/)

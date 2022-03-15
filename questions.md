@@ -32,6 +32,7 @@
   - [O(n^2) solution using Bubble Sort](https://leetcode.com/problems/sort-array-by-increasing-frequency/discuss/1707575/Solution-using-HashTable-and-the-Bubble-Sort-algorithm-(JavaScript))
 - [Majority Element](https://leetcode.com/problems/majority-element/)
   - [O(n) solution](https://leetcode.com/problems/majority-element/discuss/1837850/JavaScript-easy-solution-with-steps)
+  - [Solution using only one loop O(n)](https://leetcode.com/problems/majority-element/discuss/1850368/Easy-solution-with-explanation-using-JavaScript)
   - CHALLENGE: do it in constant time O(1)
 ## Stacks
 - [Min Stack](https://leetcode.com/problems/min-stack/)

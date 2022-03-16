@@ -13,6 +13,8 @@
   - [O(n^2) solution](https://leetcode.com/problems/remove-element/discuss/1702436/Remove-Element-(JavaScript))
 - [Valid Mountain Array](https://leetcode.com/problems/valid-mountain-array)
   - [O(n) solution using slice()](https://leetcode.com/problems/valid-mountain-array/discuss/1719585/JavaScript-using-slice())
+- [Find All Duplicates in an Array](https://leetcode.com/problems/find-all-duplicates-in-an-array/)
+  - [O(n) time solution and constant space complexity](https://leetcode.com/problems/find-all-duplicates-in-an-array/discuss/1853351/Solution-in-JavaScript)
 ## Hash Tables
 - [First Unique Character in a String](https://leetcode.com/problems/first-unique-character-in-a-string/description/)
   - [O(n) solution using HashTable](https://leetcode.com/problems/first-unique-character-in-a-string/discuss/1714092/Straightforward-solution-using-HashMap-(JavaScript))

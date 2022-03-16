@@ -41,6 +41,9 @@
   - [Solution using Stack](https://leetcode.com/problems/valid-palindrome/discuss/1714368/Solution-using-Stack-(JavaScript))
 - [Valid Parentheses](https://leetcode.com/problems/valid-parentheses)
   - [O(n) solution using Stack](https://leetcode.com/problems/valid-parentheses/discuss/1721816/Solution-using-Stack-(JavaScript))
+## Dynamic Programming
+- [Maximum Subarray](https://leetcode.com/problems/maximum-subarray)
+  - [O(n) solution using Kadane's Algorithm](https://leetcode.com/problems/maximum-subarray/discuss/1853294/Solution-using-Kadane's-Algorithm)
 ## Miscellaneous
 - [Fizz Buzz](https://leetcode.com/problems/fizz-buzz)
   - [O(n) solution](https://leetcode.com/problems/fizz-buzz/discuss/1778499/Fizz-Buzz-(JavaScript))

@@ -61,6 +61,8 @@
   - [O(n^2) solution](https://leetcode.com/problems/pascals-triangle/discuss/1763938/JavaScript-Solution)
 - [Longest Common Prefix](https://leetcode.com/problems/longest-common-prefix/)
   - [O(n^2) solution](https://leetcode.com/problems/longest-common-prefix/discuss/1778455/JavaScript-Solution)
+- [Implement strStr()](https://leetcode.com/problems/implement-strstr/)
+  - [O(n^2) solution using the slice method (JavaScript)](https://leetcode.com/problems/implement-strstr/discuss/1856380/JavaScript-Solution-using-slice())
 # Coderbyte Questions
 ## Arrays
 - [Longest Word **SOLVED**](https://coderbyte.com/results/CDDR1:Longest%20Word:JavaScript)

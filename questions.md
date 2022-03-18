@@ -45,6 +45,9 @@
 ## Dynamic Programming
 - [Maximum Subarray](https://leetcode.com/problems/maximum-subarray)
   - [O(n) solution using Kadane's Algorithm](https://leetcode.com/problems/maximum-subarray/discuss/1853294/Solution-using-Kadane's-Algorithm)
+## Two Pointers
+- [Two Sum II - Input Array Is Sorted](https://leetcode.com/problems/two-sum-ii-input-array-is-sorted/)
+  - [Solution using two pointers. Time O(n), Space O(1)](https://leetcode.com/problems/two-sum-ii-input-array-is-sorted/discuss/1860814/Two-Pointers-Solution)
 ## Miscellaneous
 - [Fizz Buzz](https://leetcode.com/problems/fizz-buzz)
   - [O(n) solution](https://leetcode.com/problems/fizz-buzz/discuss/1778499/Fizz-Buzz-(JavaScript))

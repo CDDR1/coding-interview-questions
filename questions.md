@@ -50,6 +50,8 @@
   - [Solution using two pointers. Time O(n), Space O(1)](https://leetcode.com/problems/two-sum-ii-input-array-is-sorted/discuss/1860814/Two-Pointers-Solution)
 - [Valid Palindrome](https://leetcode.com/problems/valid-palindrome)
   - [O(n) solution using two pointers](https://leetcode.com/problems/valid-palindrome/discuss/1861103/JavaScript-solution-(Two-Pointers))
+- [Squares of a Sorted Array](https://leetcode.com/problems/squares-of-a-sorted-array/)
+  - [Time O(n), Space O(n)](https://leetcode.com/problems/squares-of-a-sorted-array/discuss/1861577/JavaScript-solution-(Two-Pointers))
 ## Miscellaneous
 - [Fizz Buzz](https://leetcode.com/problems/fizz-buzz)
   - [O(n) solution](https://leetcode.com/problems/fizz-buzz/discuss/1778499/Fizz-Buzz-(JavaScript))

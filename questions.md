@@ -31,6 +31,8 @@
   - [O(n^2) solution](https://leetcode.com/problems/remove-duplicates-from-sorted-array/discuss/1702470/Remove-Duplicates-(JavaScript))
 - [Sort Array by Increasing Frequency](https://leetcode.com/problems/sort-array-by-increasing-frequency/)
   - [O(n^2) solution using Bubble Sort](https://leetcode.com/problems/sort-array-by-increasing-frequency/discuss/1707575/Solution-using-HashTable-and-the-Bubble-Sort-algorithm-(JavaScript))
+- [Intersection of Two Arrays](https://leetcode.com/problems/intersection-of-two-arrays/)
+  - [O(n) solution O(n) Time | O(n) Space](https://leetcode.com/problems/intersection-of-two-arrays/discuss/1863339/JavaScript-O(n)-Time)
 - [Majority Element](https://leetcode.com/problems/majority-element/)
   - [O(n) solution](https://leetcode.com/problems/majority-element/discuss/1837850/JavaScript-easy-solution-with-steps)
   - [Solution using only one loop O(n)](https://leetcode.com/problems/majority-element/discuss/1850368/Easy-solution-with-explanation-using-JavaScript)

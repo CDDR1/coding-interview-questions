@@ -31,6 +31,8 @@
   - [O(n^2) solution](https://leetcode.com/problems/remove-duplicates-from-sorted-array/discuss/1702470/Remove-Duplicates-(JavaScript))
 - [Sort Array by Increasing Frequency](https://leetcode.com/problems/sort-array-by-increasing-frequency/)
   - [O(n^2) solution using Bubble Sort](https://leetcode.com/problems/sort-array-by-increasing-frequency/discuss/1707575/Solution-using-HashTable-and-the-Bubble-Sort-algorithm-(JavaScript))
+- [Intersection of Two Arrays](https://leetcode.com/problems/intersection-of-two-arrays/)
+  - [O(n) solution O(n) Time | O(n) Space](https://leetcode.com/problems/intersection-of-two-arrays/discuss/1863339/JavaScript-O(n)-Time)
 - [Majority Element](https://leetcode.com/problems/majority-element/)
   - [O(n) solution](https://leetcode.com/problems/majority-element/discuss/1837850/JavaScript-easy-solution-with-steps)
   - [Solution using only one loop O(n)](https://leetcode.com/problems/majority-element/discuss/1850368/Easy-solution-with-explanation-using-JavaScript)
@@ -45,6 +47,13 @@
 ## Dynamic Programming
 - [Maximum Subarray](https://leetcode.com/problems/maximum-subarray)
   - [O(n) solution using Kadane's Algorithm](https://leetcode.com/problems/maximum-subarray/discuss/1853294/Solution-using-Kadane's-Algorithm)
+## Two Pointers
+- [Two Sum II - Input Array Is Sorted](https://leetcode.com/problems/two-sum-ii-input-array-is-sorted/)
+  - [Solution using two pointers. Time O(n), Space O(1)](https://leetcode.com/problems/two-sum-ii-input-array-is-sorted/discuss/1860814/Two-Pointers-Solution)
+- [Valid Palindrome](https://leetcode.com/problems/valid-palindrome)
+  - [O(n) solution using two pointers](https://leetcode.com/problems/valid-palindrome/discuss/1861103/JavaScript-solution-(Two-Pointers))
+- [Squares of a Sorted Array](https://leetcode.com/problems/squares-of-a-sorted-array/)
+  - [Time O(n), Space O(n)](https://leetcode.com/problems/squares-of-a-sorted-array/discuss/1861577/JavaScript-solution-(Two-Pointers))
 ## Miscellaneous
 - [Fizz Buzz](https://leetcode.com/problems/fizz-buzz)
   - [O(n) solution](https://leetcode.com/problems/fizz-buzz/discuss/1778499/Fizz-Buzz-(JavaScript))

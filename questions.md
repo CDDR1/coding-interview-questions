@@ -54,6 +54,9 @@
   - [O(n) solution using two pointers](https://leetcode.com/problems/valid-palindrome/discuss/1861103/JavaScript-solution-(Two-Pointers))
 - [Squares of a Sorted Array](https://leetcode.com/problems/squares-of-a-sorted-array/)
   - [Time O(n), Space O(n)](https://leetcode.com/problems/squares-of-a-sorted-array/discuss/1861577/JavaScript-solution-(Two-Pointers))
+## Linked Lists
+- [Reverse Linked List](https://leetcode.com/problems/reverse-linked-list/)
+  - [O(n) Time using Two Pointers](https://leetcode.com/problems/reverse-linked-list/discuss/1874812/JavaScript-(Two-Pointers))
 ## Miscellaneous
 - [Fizz Buzz](https://leetcode.com/problems/fizz-buzz)
   - [O(n) solution](https://leetcode.com/problems/fizz-buzz/discuss/1778499/Fizz-Buzz-(JavaScript))

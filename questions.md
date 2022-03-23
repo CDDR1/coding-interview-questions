@@ -44,6 +44,9 @@
   - [Solution using Stack](https://leetcode.com/problems/valid-palindrome/discuss/1714368/Solution-using-Stack-(JavaScript))
 - [Valid Parentheses](https://leetcode.com/problems/valid-parentheses)
   - [O(n) solution using Stack](https://leetcode.com/problems/valid-parentheses/discuss/1721816/Solution-using-Stack-(JavaScript))
+## Linked Lists
+- [Reverse Linked List](https://leetcode.com/problems/reverse-linked-list/)
+  - [O(n) Time using Two Pointers](https://leetcode.com/problems/reverse-linked-list/discuss/1874812/JavaScript-(Two-Pointers))
 ## Dynamic Programming
 - [Maximum Subarray](https://leetcode.com/problems/maximum-subarray)
   - [O(n) solution using Kadane's Algorithm](https://leetcode.com/problems/maximum-subarray/discuss/1853294/Solution-using-Kadane's-Algorithm)
@@ -54,9 +57,6 @@
   - [O(n) solution using two pointers](https://leetcode.com/problems/valid-palindrome/discuss/1861103/JavaScript-solution-(Two-Pointers))
 - [Squares of a Sorted Array](https://leetcode.com/problems/squares-of-a-sorted-array/)
   - [Time O(n), Space O(n)](https://leetcode.com/problems/squares-of-a-sorted-array/discuss/1861577/JavaScript-solution-(Two-Pointers))
-## Linked Lists
-- [Reverse Linked List](https://leetcode.com/problems/reverse-linked-list/)
-  - [O(n) Time using Two Pointers](https://leetcode.com/problems/reverse-linked-list/discuss/1874812/JavaScript-(Two-Pointers))
 ## Miscellaneous
 - [Fizz Buzz](https://leetcode.com/problems/fizz-buzz)
   - [O(n) solution](https://leetcode.com/problems/fizz-buzz/discuss/1778499/Fizz-Buzz-(JavaScript))

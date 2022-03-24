@@ -47,6 +47,8 @@
 ## Linked Lists
 - [Reverse Linked List](https://leetcode.com/problems/reverse-linked-list/)
   - [O(n) Time using Two Pointers](https://leetcode.com/problems/reverse-linked-list/discuss/1874812/JavaScript-(Two-Pointers))
+- [Palindrome Linked List](https://leetcode.com/problems/palindrome-linked-list/)
+  - [Solution O(n) Time, O(n) Space](https://leetcode.com/problems/palindrome-linked-list/discuss/1878069/JavaScript-naive-approach)
 ## Dynamic Programming
 - [Maximum Subarray](https://leetcode.com/problems/maximum-subarray)
   - [O(n) solution using Kadane's Algorithm](https://leetcode.com/problems/maximum-subarray/discuss/1853294/Solution-using-Kadane's-Algorithm)

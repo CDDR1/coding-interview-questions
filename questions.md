@@ -51,7 +51,7 @@
   - [Solution O(n) Time, O(n) Space](https://leetcode.com/problems/palindrome-linked-list/discuss/1878069/JavaScript-naive-approach)
 - [Middle of the Linked List](https://leetcode.com/problems/middle-of-the-linked-list/)
   - [O(n) Time, O(1) Space](https://leetcode.com/problems/middle-of-the-linked-list/discuss/1881129/JavaScript-Easy-Solution)
-  - [Using Fast and Slow Pointers](https://leetcode.com/problems/middle-of-the-linked-list/discuss/1892659/Using-Fast-and-Slow-Pointers-(JavaScript))
+  - [Using Fast and Slow Pointers](https://leetcode.com/problems/middle-of-the-linked-list/discuss/1892665/Fast-and-Slow-Pointers-(JavaScript))
 ## Dynamic Programming
 - [Maximum Subarray](https://leetcode.com/problems/maximum-subarray)
   - [O(n) solution using Kadane's Algorithm](https://leetcode.com/problems/maximum-subarray/discuss/1853294/Solution-using-Kadane's-Algorithm)

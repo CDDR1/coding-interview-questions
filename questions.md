@@ -52,6 +52,8 @@
 - [Middle of the Linked List](https://leetcode.com/problems/middle-of-the-linked-list/)
   - [O(n) Time, O(1) Space](https://leetcode.com/problems/middle-of-the-linked-list/discuss/1881129/JavaScript-Easy-Solution)
   - [Using Fast and Slow Pointers](https://leetcode.com/problems/middle-of-the-linked-list/discuss/1892665/Fast-and-Slow-Pointers-(JavaScript))
+- [Delete the Middle Node of a Linked List](https://leetcode.com/problems/delete-the-middle-node-of-a-linked-list/)
+  - [Using Three Pointers (O(n) Time, O(1) Space)](https://leetcode.com/problems/delete-the-middle-node-of-a-linked-list/discuss/1892713/Using-Three-Pointers-(JavaScript))
 ## Dynamic Programming
 - [Maximum Subarray](https://leetcode.com/problems/maximum-subarray)
   - [O(n) solution using Kadane's Algorithm](https://leetcode.com/problems/maximum-subarray/discuss/1853294/Solution-using-Kadane's-Algorithm)

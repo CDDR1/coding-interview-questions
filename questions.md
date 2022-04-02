@@ -58,6 +58,8 @@
   - [O(n) Time, O(1) Space](https://leetcode.com/problems/remove-linked-list-elements/discuss/1899009/JavaScript-Solution)
 - [Delete Node in a Linked List](https://leetcode.com/problems/delete-node-in-a-linked-list/)
   - [O(n) Time, O(1) Space](https://leetcode.com/problems/delete-node-in-a-linked-list/discuss/1902077/JavaScript-(Naive-solution))
+- [Linked List Cycle](https://leetcode.com/problems/linked-list-cycle/)
+  - [Tortoise and Hare Algorithm (O(n) Time, O(1) Space](https://leetcode.com/problems/linked-list-cycle/discuss/1904896/The-Tortoise-and-the-Hare-Algorithm-(JavaScript))
 ## Dynamic Programming
 - [Maximum Subarray](https://leetcode.com/problems/maximum-subarray)
   - [O(n) solution using Kadane's Algorithm](https://leetcode.com/problems/maximum-subarray/discuss/1853294/Solution-using-Kadane's-Algorithm)

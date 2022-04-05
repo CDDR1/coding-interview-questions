@@ -62,6 +62,7 @@
   - [Tortoise and Hare Algorithm | O(n) Time, O(1) Space](https://leetcode.com/problems/linked-list-cycle/discuss/1904896/The-Tortoise-and-the-Hare-Algorithm-(JavaScript))
 - [Remove Nth Node From End of List](https://leetcode.com/problems/remove-nth-node-from-end-of-list/)
   - [Solution O(n) Time, O(1) Space](https://leetcode.com/problems/remove-nth-node-from-end-of-list/discuss/1904929/JavaScript-Solution)
+  - [Clever solution using Two Pointers](https://leetcode.com/problems/remove-nth-node-from-end-of-list/discuss/1915145/Two-Pointers-Solution-(JavaScript))
 ## Dynamic Programming
 - [Maximum Subarray](https://leetcode.com/problems/maximum-subarray)
   - [O(n) solution using Kadane's Algorithm](https://leetcode.com/problems/maximum-subarray/discuss/1853294/Solution-using-Kadane's-Algorithm)

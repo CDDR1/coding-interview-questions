@@ -63,6 +63,8 @@
 - [Remove Nth Node From End of List](https://leetcode.com/problems/remove-nth-node-from-end-of-list/)
   - [Solution O(n) Time, O(1) Space](https://leetcode.com/problems/remove-nth-node-from-end-of-list/discuss/1904929/JavaScript-Solution)
   - [Clever solution using Two Pointers](https://leetcode.com/problems/remove-nth-node-from-end-of-list/discuss/1915145/Two-Pointers-Solution-(JavaScript))
+- [Merge Two Sorted Lists](https://leetcode.com/problems/merge-two-sorted-lists/)
+    - [O(n) Time, O(1) Space](https://leetcode.com/problems/merge-two-sorted-lists/discuss/1917082/Two-Pointers-(JavaScript))
 ## Dynamic Programming
 - [Maximum Subarray](https://leetcode.com/problems/maximum-subarray)
   - [O(n) solution using Kadane's Algorithm](https://leetcode.com/problems/maximum-subarray/discuss/1853294/Solution-using-Kadane's-Algorithm)

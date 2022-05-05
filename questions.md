@@ -75,6 +75,9 @@
   - [O(n) solution using two pointers](https://leetcode.com/problems/valid-palindrome/discuss/1861103/JavaScript-solution-(Two-Pointers))
 - [Squares of a Sorted Array](https://leetcode.com/problems/squares-of-a-sorted-array/)
   - [Time O(n), Space O(n)](https://leetcode.com/problems/squares-of-a-sorted-array/discuss/1861577/JavaScript-solution-(Two-Pointers))
+## Sliding Window
+- [BEst Time to Buy and Sell Stock](https://leetcode.com/problems/best-time-to-buy-and-sell-stock/)
+  - [Solution O(n) Time, O(1) Space](https://leetcode.com/problems/best-time-to-buy-and-sell-stock/discuss/2010804/JavaScript-Solution)
 ## Miscellaneous
 - [Fizz Buzz](https://leetcode.com/problems/fizz-buzz)
   - [O(n) solution](https://leetcode.com/problems/fizz-buzz/discuss/1778499/Fizz-Buzz-(JavaScript))
